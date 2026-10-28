@@ -99,9 +99,9 @@ No claim in the proposed draft depends on pretending that these gaps are already
 
 ## Deliverable checks
 
-The proposed Section 1.4 contains approximately **2,838 whitespace-delimited words**; the complete Markdown document, including bridges, 23 references, and editorial notes, contains approximately **4,000**. The Word and 10-page PDF versions were checked paragraph by paragraph against the rendered Markdown, with no omitted headings, paragraphs, or list items. Selected PDF pages were inspected visually. Word proofing language is English (UK). Local links in the research memos were checked, and every original bibliography item 1–40 has an audit row. The existing cited chapter was not changed.
+The proposed Section 1.4 contains approximately **2,824 whitespace-delimited words**; the complete Markdown document, including bridges, 22 references, and editorial notes, contains approximately **3,939**. The Word and 10-page PDF versions were checked paragraph by paragraph against the rendered Markdown, with no omitted headings, paragraphs, or list items. Selected PDF pages were inspected visually. Word proofing language is English (UK). Local links in the research memos were checked, and every original bibliography item 1–40 has an audit row. The existing cited chapter was not changed.
 
 
-## Follow-up source check: earlier project manuscript
+## Follow-up source check: Samagra’s working notes
 
-The five-page `References/Samagra_Bharti_2022115007.pdf` was read in full at the user’s specific request. [The addition record](Samagra_Paper_Additions.md) maps its useful material to checked original pages and distinguishes proposed arguments from anticipated results. The updated draft has 23 references; Bharti (n.d.) is an unpublished project manuscript, not independent historical corroboration.
+The five-page `References/Samagra_Bharti_2022115007.pdf` was read in full at the user’s specific request. [The addition record](Samagra_Paper_Additions.md) maps its useful material to checked original pages and distinguishes proposed arguments from anticipated results. The PDF is Samagra’s own unpublished working notes, used for drafting and not cited. The expanded draft has 22 references after removal of the self-citation; the condensed review has 12.

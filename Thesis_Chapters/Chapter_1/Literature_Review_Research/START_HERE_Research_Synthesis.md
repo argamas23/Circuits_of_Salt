@@ -6,15 +6,15 @@ The revision needs an argument about what salt scholars have established, where 
 
 ## Read these files in this order
 
-1. **[Proposed literature-review draft](../Himalayan_Salt_Literature_Review_Draft.md)** — an expanded Section 1.4, a bridge from theory, a replacement research-gap paragraph, and 23 references. Word and PDF copies sit beside it. The prose is a candidate for integration, not an assertion that all unresolved source questions have been settled.
+1. **[Condensed literature review](../Himalayan_Salt_Literature_Review_Condensed.md)** — the current short version requested on 28 October: 1,506 words in the review, 1,813 including headings and 12 references. Matching Word and five-page PDF copies sit beside it. Its organisation primarily follows `Samagra_Bharti_2022115007.pdf`: commodity circuits, social institutions, Rupshu extraction, ritual knowledge, and political authority. Other scholarship supports and qualifies those themes. The [expanded draft](../Himalayan_Salt_Literature_Review_Draft.md) remains available; self-citations have been removed from both versions.
 2. **This synthesis** — the field’s common findings and contrasts, what should change in Chapter 1, and a reading order.
 3. **[Source coverage and search audit](Source_Coverage_and_Search_Audit.md)** — all 40 numbered leads in the original bibliography, the web-source groups, what was actually accessed, new resolutions, and remaining gaps.
 4. **Evidence memos:** [Western Himalaya](Western_Himalaya_Evidence.md), [Nepal and Tibet](Nepal_Tibet_Evidence.md), [salt politics and supplied web sources](Salt_Politics_and_Web_Evidence.md), and [borderlands and new scholarship](Borderlands_and_New_Scholarship.md). These provide page locators and source-specific qualifications.
 5. **[Local source inventory](Local_Source_Inventory.csv)** — 45 PDFs in Books, References, and the top-level Bibliography directory, plus one OCR-only source. The 29 existing corpus text files were also inventoried and keyword-screened. An image-only PDF is explicitly distinguished from a text with no salt matches.
 
-## Follow-up: material from the earlier project paper
+## Follow-up: material from Samagra’s working notes
 
-The complete `References/Samagra_Bharti_2022115007.pdf` has now been checked directly against relevant original scholarship. The draft adds regional production contrasts, ritual and specialised knowledge, and cultural memory and taste. It also attributes the earlier governance-infrastructure proposition to Bharti (n.d.) while keeping it a research question. See [the addition and correction record](Samagra_Paper_Additions.md). Anticipated computational results were not imported as findings.
+The complete `References/Samagra_Bharti_2022115007.pdf` has now been checked directly against relevant original scholarship. The draft adds regional production contrasts, ritual and specialised knowledge, and cultural memory and taste. The PDF is Samagra’s own unpublished working notes and is not cited. The governance-infrastructure proposition is presented as the thesis’s own research question. See [the addition and correction record](Samagra_Paper_Additions.md). Anticipated computational results were not imported as findings.
 
 ## The central argument to build
 
