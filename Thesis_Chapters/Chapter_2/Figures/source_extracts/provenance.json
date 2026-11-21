@@ -1,0 +1,51 @@
+[
+  {
+    "file": "ahmed_salt_extraction.png",
+    "source": "Books/salttrade_rupshutrek_ahmed.pdf",
+    "pdf_page": 2,
+    "printed_page": 34,
+    "original_figure": 1,
+    "page_crop_points": [
+      47,
+      51,
+      363,
+      243
+    ],
+    "handling": "Page crop and PDF rendering only; no restoration or generative changes."
+  },
+  {
+    "file": "ahmed_salt_caravan.png",
+    "source": "Books/salttrade_rupshutrek_ahmed.pdf",
+    "pdf_page": 2,
+    "printed_page": 35,
+    "original_figure": 4,
+    "page_crop_points": [
+      449,
+      284,
+      766,
+      476
+    ],
+    "handling": "Page crop and PDF rendering only; no restoration or generative changes."
+  },
+  {
+    "file": "kanum_wool_trading.jpeg",
+    "source": "https://censusindia.gov.in/nada/index.php/catalog/31012/download/34193/23212_1961_KAN.pdf",
+    "pdf_page": 139,
+    "caption": "Wool trading at Lavi",
+    "handling": "Embedded JPEG extracted without recompression or alteration."
+  },
+  {
+    "file": "kanum_pashm_purchase.jpeg",
+    "source": "https://censusindia.gov.in/nada/index.php/catalog/31012/download/34193/23212_1961_KAN.pdf",
+    "pdf_page": 149,
+    "caption": "Pashm purchasing at Lavi",
+    "handling": "Embedded JPEG extracted without recompression or alteration."
+  },
+  {
+    "file": "mandi_accounts_original.png",
+    "source": "Books/Mandi_Gazatteer.pdf",
+    "pdf_page": 173,
+    "printed_page": 160,
+    "handling": "Crop of original table for transcription checks."
+  }
+]

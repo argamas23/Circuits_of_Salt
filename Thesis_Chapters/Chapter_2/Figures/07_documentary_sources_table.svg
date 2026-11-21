@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="576pt" viewBox="0 0 792 576" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-03T08:10:16.714841</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 576 
+L 792 576 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 51.48 167.862857 
+L 189.288 167.862857 
+L 189.288 115.2 
+L 51.48 115.2 
+z
+" style="fill: #294d60; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="59.74848" y="144.346741" transform="rotate(-0 59.74848 144.346741)">Source type</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 189.288 167.862857 
+L 451.1232 167.862857 
+L 451.1232 115.2 
+L 189.288 115.2 
+z
+" style="fill: #294d60; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="204.998112" y="144.428772" transform="rotate(-0 204.998112 144.428772)">Useful evidence</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 451.1232 167.862857 
+L 740.52 167.862857 
+L 740.52 115.2 
+L 451.1232 115.2 
+z
+" style="fill: #294d60; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="468.487008" y="144.428772" transform="rotate(-0 468.487008 144.428772)">Limit to preserve</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 51.48 220.525714 
+L 189.288 220.525714 
+L 189.288 167.862857 
+L 51.48 167.862857 
+z
+" style="fill: #f0f4f5; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.74848" y="197.091629" transform="rotate(-0 59.74848 197.091629)">Gazetteers</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 189.288 220.525714 
+L 451.1232 220.525714 
+L 451.1232 167.862857 
+L 189.288 167.862857 
+z
+" style="fill: #f0f4f5; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 191.212778)">Routes, commodities, labour and</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 202.970481)">fiscal arrangements</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 451.1232 220.525714 
+L 740.52 220.525714 
+L 740.52 167.862857 
+L 451.1232 167.862857 
+z
+" style="fill: #f0f4f5; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 185.333926)">Administrative priorities;</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 197.091629)">publication date differs from event</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 208.849333)">date</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 51.48 273.188571 
+L 189.288 273.188571 
+L 189.288 220.525714 
+L 51.48 220.525714 
+z
+" style="fill: #ffffff; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.74848" y="249.754487" transform="rotate(-0 59.74848 249.754487)">Travel accounts</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 189.288 273.188571 
+L 451.1232 273.188571 
+L 451.1232 220.525714 
+L 189.288 220.525714 
+z
+" style="fill: #ffffff; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 243.875635)">Landscape, accessibility and</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 255.633338)">observations along journeys</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 451.1232 273.188571 
+L 740.52 273.188571 
+L 740.52 220.525714 
+L 451.1232 220.525714 
+z
+" style="fill: #ffffff; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 243.875635)">An observed resource does not</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 255.633338)">establish its market destination</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 51.48 325.851429 
+L 189.288 325.851429 
+L 189.288 273.188571 
+L 51.48 273.188571 
+z
+" style="fill: #f0f4f5; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(59.74848 296.538492)">Treaty</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(59.74848 308.296195)">reproductions</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 189.288 325.851429 
+L 451.1232 325.851429 
+L 451.1232 273.188571 
+L 189.288 273.188571 
+z
+" style="fill: #f0f4f5; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 296.538492)">Prescribed privileges and</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 308.296195)">obligations</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 451.1232 325.851429 
+L 740.52 325.851429 
+L 740.52 273.188571 
+L 451.1232 273.188571 
+z
+" style="fill: #f0f4f5; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 296.538492)">Prescription differs from practice;</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 308.296195)">cited clauses do not name salt</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 51.48 378.514286 
+L 189.288 378.514286 
+L 189.288 325.851429 
+L 51.48 325.851429 
+z
+" style="fill: #ffffff; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.74848" y="355.080201" transform="rotate(-0 59.74848 355.080201)">Village surveys</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 189.288 378.514286 
+L 451.1232 378.514286 
+L 451.1232 325.851429 
+L 189.288 325.851429 
+z
+" style="fill: #ffffff; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 349.201349)">Households, credit, occupations</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 360.959052)">and local changes</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 451.1232 378.514286 
+L 740.52 378.514286 
+L 740.52 325.851429 
+L 451.1232 325.851429 
+z
+" style="fill: #ffffff; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 349.201349)">Selected cases; distinguish survey</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 360.959052)">and revisit dates</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 51.48 431.177143 
+L 189.288 431.177143 
+L 189.288 378.514286 
+L 51.48 378.514286 
+z
+" style="fill: #f0f4f5; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.74848" y="407.743058" transform="rotate(-0 59.74848 407.743058)">Fair accounts</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 189.288 431.177143 
+L 451.1232 431.177143 
+L 451.1232 378.514286 
+L 189.288 378.514286 
+z
+" style="fill: #f0f4f5; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 401.864206)">Participants and goods at a</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 413.62191)">particular gathering</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 451.1232 431.177143 
+L 740.52 431.177143 
+L 740.52 378.514286 
+L 451.1232 378.514286 
+z
+" style="fill: #f0f4f5; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 401.864206)">A fair observation is not a regional</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 413.62191)">trade census</text>
+    </g>
+    <g id="patch_20">
+     <path d="M 51.48 483.84 
+L 189.288 483.84 
+L 189.288 431.177143 
+L 51.48 431.177143 
+z
+" style="fill: #ffffff; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.74848" y="460.405915" transform="rotate(-0 59.74848 460.405915)">Ethnography</text>
+    </g>
+    <g id="patch_21">
+     <path d="M 189.288 483.84 
+L 451.1232 483.84 
+L 451.1232 431.177143 
+L 189.288 431.177143 
+z
+" style="fill: #ffffff; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 454.527064)">Extraction, transport, memories</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(204.998112 466.284767)">and interpretations</text>
+    </g>
+    <g id="patch_22">
+     <path d="M 451.1232 483.84 
+L 740.52 483.84 
+L 740.52 431.177143 
+L 451.1232 431.177143 
+z
+" style="fill: #ffffff; stroke: #c5ced2; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 454.527064)">Separate field observation from</text>
+     <text style="font-size: 10.5px; font-family: 'DejaVu Sans'" transform="translate(468.487008 466.284767)">recollection and disputed accounts</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242424" x="51.48" y="48.237188" transform="rotate(-0 51.48 48.237188)">Reading the chapter’s documentary evidence</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="51.48" y="75.946359" transform="rotate(-0 51.48 75.946359)">What each source type contributes, and what it cannot establish alone</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #505050" transform="translate(51.48 536.856523)">Author’s synthesis of §2.2: Walton; Emerson; Mamgain; Thomson; Tingmosgang treaty reproduction;</text>
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #505050" transform="translate(51.48 548.312266)">Kanum and Nachar surveys; Lavi fair account; Ahmed. This is not the computational corpus inventory.</text>
+  </g>
+ </g>
+</svg>
