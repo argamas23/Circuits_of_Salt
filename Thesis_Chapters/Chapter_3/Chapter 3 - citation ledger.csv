@@ -1,0 +1,28 @@
+Placement,Section,Citation,Individual works,Status,Reference keys,Supported claim / scope
+1,3.1,"(Wetherell, 1998)",1,added,Wetherell1998,Historical network reconstruction requires source criticism and attention to what surviving records establish.
+2,3.1,Latour (2005),1,retained,Latour2005,ANT and the tracing of associations; existing narrative citation retained.
+3,3.1,"(Painter et al., 2019)",1,added,Painter2019,Interpret network abstractions through their source material; the Himalayan application remains the author’s argument.
+4,3.2,"(Ross, 1983)",1,added,Ross1983,"Ross’s Humla article supplies the geographically specific comparative example, not evidence for Rupshu."
+5,3.2,Thomson’s (1852),1,added,Thomson1852,Identify the travel narrative named in the original paragraph.
+6,3.2,"(Emerson, 1920/1996)",1,added,Emerson1996,Identify the consulted Mandi reprint using original and republication dates.
+7,3.2,Walton’s (1910),1,added,Walton1910,Identify the British Garhwal district gazetteer.
+8,3.2,Ahmed’s (1999),1,added,Ahmed1999,Identify the study of the annual Rupshu salt trek.
+9,3.2,Fisher’s (1986),1,added,Fisher1986,Identify the north-west Nepal ethnography.
+10,3.2,"(Wetherell, 1998)",1,added,Wetherell1998,Historical reconstruction must retain temporal scope; not attribution of this project’s corpus to Wetherell.
+11,3.2,"(Artifex Software, Inc., n.d.)",1,added,ArtifexND,Official PyMuPDF text-extraction documentation; thresholds and rendering resolution are project choices.
+12,3.2,"(Smith, 2007)",1,added,Smith2007,Credit the OCR engine; the citation does not supply the project’s 20-character threshold or 300-dpi setting.
+13,3.2,"(Ehrmann et al., 2023)",1,added,Ehrmann2023,Historical spellings and digitisation noise complicate entity recognition; no claim of automatic correction.
+14,3.2,"(Artifex Software, Inc., n.d.)",1,added,ArtifexND,Plain PDF text extraction can have unexpected reading order and lose table structure.
+15,3.3,"(TextRazor, n.d.)",1,added,TextRazorND,"Official API documentation establishes entity recognition, entity linking, topic features and Freebase types."
+16,3.3,"(Ehrmann et al., 2023)",1,added,Ehrmann2023,"Historical named-entity recognition is challenged by name variation, ambiguous identities and noisy text."
+17,3.3,"(TextRazor, n.d.)",1,added,TextRazorND,Official distinction between entity confidence and relevance; historical significance is not equated with either score.
+18,3.4,"(Meta, 2024; Ollama, n.d.)",2,added,Meta2024; OllamaND,Credit the model family and local inference interface; no claim that the vendors prescribe this extraction procedure.
+19,3.5,"(Newman, 2010)",1,added,Newman2010,General graph representation of nodes and labelled relations; project-specific node types are described separately.
+20,3.5,"(Painter et al., 2019)",1,added,Painter2019,Identity and modelling decisions affect humanities network construction; project alias rules are not attributed to Painter.
+21,3.5,"(Franz et al., 2016; vis.js, n.d.)",2,added,Franz2016; VisND,"Credit Cytoscape.js and vis-network, the browser libraries used in the repository, rather than the Cytoscape desktop application."
+22,3.5,"(Painter et al., 2019)",1,added,Painter2019,Visual layout and clusters require interpretation; display alone does not establish historical relationships.
+23,3.6,"(Freeman, 1977; Newman, 2010)",2,retained,Freeman1977; Newman2010,Existing citation for betweenness and general network measures retained.
+24,3.6,"(Blondel et al., 2008)",1,retained,Blondel2008,Existing Louvain algorithm citation retained; run settings remain project-specific.
+25,3.6,"(Guimerà & Nunes Amaral, 2005)",1,added,Guimera2005,"Original participation-coefficient definition, using counts of links rather than extraction weights."
+26,3.6,"(Latora & Marchiori, 2001)",1,added,Latora2001,Global efficiency defined through inverse shortest-path distances; project removal comparison uses different averaging populations.
+27,3.6,"(Wetherell, 1998)",1,added,Wetherell1998,Historical network analysis combines structural patterns with historically situated source interpretation.
